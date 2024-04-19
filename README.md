@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prerana</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narpear" alt="narpear" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narpear" alt="narpear" /></a> </p> -->
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
