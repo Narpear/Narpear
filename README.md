@@ -13,10 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QVuhsp9s0h0_Hwt4I1ANym4wrsM9NGzb/view?usp=sharing](https://drive.google.com/file/d/1QVuhsp9s0h0_Hwt4I1ANym4wrsM9NGzb/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prerana kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prerana kulkarni" height="30" width="40" /></a>
