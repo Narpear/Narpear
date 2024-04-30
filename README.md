@@ -1,8 +1,6 @@
 <h1 align="center">Hey! I'm Prerana 🛸</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narpear&label=Profile%20views&color=0e75b6&style=flat" alt="narpear" /> </p>
-
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👯 I’m looking to collaborate on **Stable Diffusion based projects.**
@@ -17,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Design with GRASP](https://medium.com/@prer.kulk/object-oriented-design-with-grasp-2c8115f64523)
+- [Object-Oriented Design with SOLID](https://medium.com/@prer.kulk/object-oriented-design-with-solid-2958df577b46)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
