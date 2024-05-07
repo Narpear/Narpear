@@ -1,9 +1,7 @@
 <h1 align="center">Hey! I'm Prerana 🛸</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">An ever-enthusiastic machine learning researcher from India</h3>
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
-
-- 👯 I’m looking to collaborate on **Stable Diffusion based projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@prer.kulk](https://medium.com/@prer.kulk)
 
