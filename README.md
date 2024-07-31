@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@prer.kulk](https://medium.com/@prer.kulk)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **prer.kulk@gmail.com**
 
