@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **prer.kulk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QVuhsp9s0h0_Hwt4I1ANym4wrsM9NGzb/view?usp=sharing](https://drive.google.com/file/d/1QVuhsp9s0h0_Hwt4I1ANym4wrsM9NGzb/view?usp=sharing)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Object-Oriented Design with GRASP](https://medium.com/@prer.kulk/object-oriented-design-with-grasp-2c8115f64523)
