@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prerana</h1>
-<h3 align="center">Machine Learning Engineer and Researcher
-  ongoing Master of Computational Data Science at Carnegie Mellon University</h3>
+<h3 align="center">Machine Learning Engineer and Researcher </h3>
+<h3 align="center">Master of Computational Data Science student at Carnegie Mellon University</h3>
 
 - Currently pursuing my Master's in Computational Data Science at Carnegie Mellon University, Language Technologies Institute
 - Previously Lead AI Engineer at Alaiy, building agentic LLM pipelines and generative design tools for the fashion industry
