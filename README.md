@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prerana</h1>
-<h3 align="center">Machine Learning Engineer and Researcher, MS Computational Data Science at Carnegie Mellon University</h3>
+<h3 align="center">Machine Learning Engineer and Researcher, currently pursuing me Master of Computational Data Science at Carnegie Mellon University</h3>
 
 - Currently pursuing my Master's in Computational Data Science at Carnegie Mellon University, Language Technologies Institute
 - Previously Lead AI Engineer at Alaiy, building agentic LLM pipelines and generative design tools for the fashion industry
@@ -12,6 +12,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Object-Oriented Design with GRASP](https://medium.com/@prer.kulk/object-oriented-design-with-grasp-2c8115f64523)
 - [Object-Oriented Design with SOLID](https://medium.com/@prer.kulk/object-oriented-design-with-solid-2958df577b46)
+- [The Simplest AI Pipeline You Can Actually Use](https://medium.com/@prer.kulk/the-simplest-ai-pipeline-you-can-actually-use-5e4499aaed47)
+- [Fine-Tuning vs Adapters vs RAG: Explained Using a Ridiculously Cute Dog](https://medium.com/@prer.kulk/fine-tuning-vs-adapters-vs-rag-explained-using-a-ridiculously-cute-dog-d9b7b1a2d29a)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
